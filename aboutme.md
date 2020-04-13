@@ -8,7 +8,8 @@ My name is Suvir Bhargav. I work as a software engineer. Sometimes i play tennis
 
 ### software i like using.
 
-![Firefox]("/img/Firefox-icon.png")
+![Alt text](/img/Firefox_logo.svg)
+<img src="./img/Firefox_logo.svg">
 vscode
 Linux
 ubuntu
