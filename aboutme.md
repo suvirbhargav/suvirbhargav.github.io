@@ -9,8 +9,7 @@ My name is Suvir Bhargav. I work as a software engineer. Sometimes i play tennis
 ### software i like using.
 
 ![Alt text](/img/Firefox_logo.svg)
-<img src="./img/Firefox_logo.svg">
-vscode
+![Alt text](/img/vscode.svg)
 Linux
 ubuntu
 meld
