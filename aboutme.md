@@ -15,6 +15,5 @@ My name is Suvir Bhargav. I work as a software engineer. Sometimes i play tennis
 ![Alt text](/img/sublime-text.svg)
 ![Alt text](/img/vim.svg)
 ![Alt text](/img/pocket.png)
-
-meld
-Flux
+![Alt text](/img/flux.svg)
+![Alt text](/img/meld.svg)
