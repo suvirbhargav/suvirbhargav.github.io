@@ -8,12 +8,12 @@ My name is Suvir Bhargav. I work as a software engineer. Sometimes i play tennis
 
 ### software i like using.
 
-![Alt text](/img/firefox-6.svg =8%)
-![Alt text](/img/vscode.svg =8%)
-![Alt text](/img/linux-tux.svg =8%)
-![Alt text](/img/ubuntu-4.svg =8%)
-![Alt text](/img/sublime-text.svg =8%)
-![Alt text](/img/vim.svg =8%)
-![Alt text](/img/pocket.png =8%)
-![Alt text](/img/flux.svg =8%)
-![Alt text](/img/meld.svg =8%)
+![Alt text](/img/firefox-6.svg){:width="8%"}
+![Alt text](/img/vscode.svg){:width="8%"}
+![Alt text](/img/linux-tux.svg){:width="8%"}
+![Alt text](/img/ubuntu-4.svg){:width="8%"}
+![Alt text](/img/sublime-text.svg){:width="8%"}
+![Alt text](/img/vim.svg){:width="8%"}
+![Alt text](/img/pocket.png){:width="8%"}
+![Alt text](/img/flux.svg){:width="8%"}
+![Alt text](/img/meld.svg){:width="8%"}
