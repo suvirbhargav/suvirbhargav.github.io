@@ -2,7 +2,7 @@
 layout: post
 title: To run jekyll site locally
 subtitle:
-tags: [test]
+tags: [jekyll]
 comments: true
 ---
 
